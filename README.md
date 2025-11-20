@@ -52,3 +52,65 @@ Sunrise and sunset timings
 
 Note: The structure can support static datasets or API-based weather data depending on the user’s requirement.
 
+
+⭐ 5. Dashboard Features
+📌 Current Conditions Panel
+
+Displays:
+
+Real-time temperature
+
+Weather condition (e.g., mist, clear, cloudy)
+
+City-based switching
+
+Last updated timestamp
+
+📌 Seven-Day Forecast
+
+A line chart that illustrates:
+
+Daily temperature movement
+
+Weather pattern for the upcoming week
+
+📌 Air Quality Overview
+
+A central gauge supported by pollutant readings including:
+
+PM10
+
+PM2.5
+
+SO2
+
+NO2
+
+CO
+
+Ozone (O3)
+
+📌 Environmental Metrics
+
+Individual cards display:
+
+Humidity
+
+Wind speed
+
+Pressure
+
+Visibility
+
+UV index
+
+Precipitation
+
+📌 Chance of Rain
+
+Horizontal bar visuals representing precipitation probability for each day of the week.
+
+📌 Sunrise & Sunset Timings
+
+Minimalistic visual indicating the start and end of the day.
+
